@@ -1,0 +1,12 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-HTTP-Message"
+VERSION=6.06
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="HTTP message classes for Perl"
+DESCRIPTION="The HTTP-Message distribution contains classes useful for
+representing the messages passed in HTTP style communication.  These are
+classes representing requests, responses and the headers contained within
+them."
